@@ -4,7 +4,7 @@
 Obviously, not only that. I'm the type of guy that has to truly understand how things like a data structure are, behind the tables of a DBMS,
 the implementation of artificial intelligence to play with, in the tic-tac-toe, or even connect more than two people with a secure information exchange channel with RSA.</p>
 
-- :school_satchel: I'm currently an undergraduated student in IFPE. 
+- :school_satchel: I'm currently an undergraduated student of associate degree in Systems Development & Analysis, in UNINASSAU. 
 - :sushi: My favorite foods are Japanese food, pasta, meat, fruits and milk.
 
 ### My known languages are:
