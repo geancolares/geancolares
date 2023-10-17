@@ -7,7 +7,7 @@ the implementation of artificial intelligence to play with, in the tic-tac-toe, 
 - :school_satchel: I'm currently an undergraduated student of associate degree in Systems Development & Analysis, in UNINASSAU. 
 - :sushi: My favorite foods are Japanese food, pasta, meat, fruits and milk.
 
-### My known languages are:
+### Programming languages which I'm acquainted the most:
 ##
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
